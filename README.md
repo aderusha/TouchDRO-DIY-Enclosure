@@ -10,7 +10,7 @@ The awesome [TouchDRO](https://www.touchdro.com/) project now offers an [inexpen
 
 ![Interior.jpg](https://github.com/aderusha/TouchDRO-DIY-Enclosure/blob/main/images/Interior.jpg?raw=true)
 
-![Model_view.jpg](https://github.com/aderusha/TouchDRO-DIY-Enclosure/blob/main/images/Model_view.jpg?raw=true)
+![Model_view.png](https://github.com/aderusha/TouchDRO-DIY-Enclosure/blob/main/images/Model_view.png?raw=true)
 
 ---
 
@@ -29,6 +29,8 @@ To complete this assembly you will also need the following:
 
 * [4x 35mm M4 socket-head screws](https://amzn.to/3xf0tDp)
 * [4x M4 nuts](https://amzn.to/3v8zLuc)
+* [8x 4-40 Jack Screws + nuts](https://amzn.to/2QPi0RX)
+* [LocTite thread locker](https://amzn.to/3eq09ZM)
 
 ---
 
@@ -36,6 +38,7 @@ To complete this assembly you will also need the following:
 
 1. Print the top side and one of the two bottom half models. I've used [Overture PETG](https://amzn.to/3v2XJHk) with .20mm layers to good effect.  No supports should be required if your printer is dialed in.
 2. Press-fit the [4x M4 nuts](https://amzn.to/3v8zLuc) into the two halves of the enclosure.
+3. Mount the DB9 shells to the top enclosure with [8x 4-40 Jack Screws + nuts](https://amzn.to/2QPi0RX).  Use some [red LocTite](https://amzn.to/3eq09ZM) to keep this secured.
 3. Place the top onto the enclosure and secure with [4x 35mm M4 socket-head screws](https://amzn.to/3xf0tDp)
 
 ---
